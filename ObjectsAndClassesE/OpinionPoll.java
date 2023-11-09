@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE;
+package javaFundamentals.objectsAndClassesE;
 
 import java.util.ArrayList;
 import java.util.List;

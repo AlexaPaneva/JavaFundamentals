@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE.OrderByAge;
+package javaFundamentals.objectsAndClassesE.orderByAge;
 
 public class PersonId {
     private String name;

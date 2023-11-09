@@ -1,4 +1,4 @@
-package JavaFundamentals.MidExam;
+package javaFundamentals.midExam;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE.VehicleCatalogue;
+package javaFundamentals.objectsAndClassesE.vehicleCatalogue;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package JavaFundamentals.FinalExam;
+package javaFundamentals.finalExam;
 
 import java.util.Scanner;
 

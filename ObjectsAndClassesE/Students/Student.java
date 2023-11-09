@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE.Students;
+package javaFundamentals.objectsAndClassesE.students;
 
 public class Student {
     private String firstName;

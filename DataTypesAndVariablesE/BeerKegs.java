@@ -1,6 +1,5 @@
-package JavaFundamentals.DataTypesAndVariablesE;
+package javaFundamentals.dataTypesAndVariablesE;
 
-import java.lang.instrument.IllegalClassFormatException;
 import java.util.Scanner;
 
 public class BeerKegs {

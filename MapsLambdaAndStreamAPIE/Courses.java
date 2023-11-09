@@ -1,4 +1,4 @@
-package JavaFundamentals.MapsLambdaAndStreamAPIE;
+package javaFundamentals.mapsLambdaAndStreamAPIE;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

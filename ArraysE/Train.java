@@ -1,4 +1,4 @@
-package JavaFundamentals.ArraysE;
+package javaFundamentals.arraysE;
 
 import java.util.Scanner;
 

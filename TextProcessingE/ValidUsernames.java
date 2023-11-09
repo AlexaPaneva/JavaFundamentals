@@ -1,6 +1,5 @@
-package JavaFundamentals.TextProcessingE;
+package javaFundamentals.textProcessingE;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 import static java.util.Arrays.stream;

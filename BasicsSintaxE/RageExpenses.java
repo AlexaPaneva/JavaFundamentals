@@ -1,4 +1,4 @@
-package JavaFundamentals.BasicsSintaxE;
+package javaFundamentals.basicsSintaxE;
 
 import java.util.Scanner;
 

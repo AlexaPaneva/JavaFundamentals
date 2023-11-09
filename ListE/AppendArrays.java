@@ -1,4 +1,4 @@
-package JavaFundamentals.ListE;
+package javaFundamentals.listE;
 
 import java.util.*;
 import java.util.stream.Collectors;

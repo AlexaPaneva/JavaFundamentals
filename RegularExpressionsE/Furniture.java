@@ -1,4 +1,4 @@
-package JavaFundamentals.RegularExpressionsE;
+package javaFundamentals.regularExpressionsE;
 
 import java.util.ArrayList;
 import java.util.List;

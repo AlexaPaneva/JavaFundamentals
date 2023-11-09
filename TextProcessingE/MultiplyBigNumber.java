@@ -1,6 +1,5 @@
-package JavaFundamentals.TextProcessingE;
+package javaFundamentals.textProcessingE;
 
-import java.math.BigInteger;
 import java.util.Scanner;
 
 public class MultiplyBigNumber {

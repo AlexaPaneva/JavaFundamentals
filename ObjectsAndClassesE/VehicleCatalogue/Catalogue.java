@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE.VehicleCatalogue;
+package javaFundamentals.objectsAndClassesE.vehicleCatalogue;
 
 public class Catalogue {
     private String type;

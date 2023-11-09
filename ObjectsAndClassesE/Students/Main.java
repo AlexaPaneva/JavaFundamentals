@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE.Students;
+package javaFundamentals.objectsAndClassesE.students;
 
 import java.util.*;
 

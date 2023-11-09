@@ -1,4 +1,4 @@
-package JavaFundamentals.DataTypesAndVariablesE;
+package javaFundamentals.dataTypesAndVariablesE;
 
 import java.util.Scanner;
 

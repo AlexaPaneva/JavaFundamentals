@@ -1,4 +1,4 @@
-package JavaFundamentals.ObjectsAndClassesE.AdvertisementMessage;
+package javaFundamentals.objectsAndClassesE.advertisementMessage;
 
 import java.util.Scanner;
 

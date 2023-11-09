@@ -1,4 +1,4 @@
-package JavaFundamentals.TextProcessingE;
+package javaFundamentals.textProcessingE;
 
 import java.util.Scanner;
 
